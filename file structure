@@ -1,0 +1,4 @@
+quicknotes-backend/
+├── server.js
+├── notes.json      (stores the notes)
+├── package.json
